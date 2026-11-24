@@ -16,7 +16,9 @@ const OUT = 'public/rates.json';
 const USER_AGENT = 'RoupiTrip-rates/1.0 (+https://github.com/wylan24/roupitrip; one request per weekday)';
 
 async function get(url: string): Promise<Response> {
-  const res = await fetch(url, { headers: { 'User-Agent': USER_AGENT, Accept: 'text/html,application/json' } });
+  const res = await fetch(url, { headers: { 'User-Agent': USER_AGENT, Accept: 'text/html,application/json' } }).catch((err: Error) => {
+    throw new Error(`GET ${url} failed`, { cause: err.cause ?? err });
+  });
   if (!res.ok) throw new Error(`GET ${url} -> HTTP ${res.status}`);
   return res;
 }
@@ -81,6 +83,8 @@ async function main() {
 }
 
 main().catch((err) => {
-  console.error(err instanceof Error ? err.message : err);
+  // fetch() hides the real reason (DNS, TLS...) in err.cause.
+  const cause = err instanceof Error && err.cause ? ` (${(err.cause as Error).message ?? err.cause})` : '';
+  console.error(err instanceof Error ? `${err.message}${cause}` : err);
   process.exit(1);
 });
