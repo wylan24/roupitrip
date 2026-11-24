@@ -1,0 +1,4 @@
+# Keep LF everywhere so the bash script and fixtures behave the same after commits from Windows.
+* text=auto eol=lf
+*.png binary
+*.gz binary
