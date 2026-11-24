@@ -25,9 +25,13 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm test
+      # bom.mu omits its intermediate certificate; fetch and verify it so Node can connect.
+      - run: scripts/bom-intermediate.sh "$RUNNER_TEMP/bom-intermediate.pem"
       # Fails (and GitHub emails you) if BoM changed its page, fewer than 10
       # currencies parse, or a rate moved >10 %. The published file is left as is.
       - run: npm run rates
+        env:
+          NODE_EXTRA_CA_CERTS: ${{ runner.temp }}/bom-intermediate.pem
       - id: commit
         name: Commit rates.json if it changed
         run: |
