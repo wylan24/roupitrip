@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="112" fill="#062e36"/>
+  <g transform="translate(256 262) rotate(-18) scale(0.92)">
+    <path d="M-190 -92 H170 a20 20 0 0 1 20 20 V72 a20 20 0 0 1 -20 20 H-190 L-262 0 Z" fill="#ffffff"/>
+    <circle cx="-196" cy="0" r="22" fill="#ff5a36"/>
+    <text x="10" y="50" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-weight="800" font-size="150" fill="#062e36">Rs</text>
+  </g>
+  <path d="M60 470 Q 256 420 452 470" stroke="#19b3a6" stroke-width="14" fill="none" stroke-linecap="round" opacity="1"/>
+</svg>

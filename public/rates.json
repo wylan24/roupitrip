@@ -1,0 +1,371 @@
+{
+  "updated": "2026-11-24T12:04:45.810Z",
+  "bomDate": "2026-11-24",
+  "marketDate": "2026-11-24T00:02:31.000Z",
+  "rates": {
+    "AED": {
+      "sellNotes": 13.1485,
+      "sellTT": 13.0923,
+      "buyTT": 12.4315,
+      "mid": 12.7619,
+      "source": "market",
+      "estimated": true
+    },
+    "AUD": {
+      "sellNotes": 33.1512,
+      "sellTT": 32.9891,
+      "buyTT": 31.2159,
+      "mid": 32.1025,
+      "source": "bom"
+    },
+    "BDT": {
+      "sellNotes": 0.387975,
+      "sellTT": 0.386319,
+      "buyTT": 0.36682,
+      "mid": 0.376569,
+      "source": "market",
+      "estimated": true
+    },
+    "BHD": {
+      "sellNotes": 128.425,
+      "sellTT": 127.877,
+      "buyTT": 121.422,
+      "mid": 124.65,
+      "source": "market",
+      "estimated": true
+    },
+    "BRL": {
+      "sellNotes": 8.10407,
+      "sellTT": 8.06947,
+      "buyTT": 7.66218,
+      "mid": 7.86583,
+      "source": "market",
+      "estimated": true
+    },
+    "CAD": {
+      "sellNotes": 34.7317,
+      "sellTT": 34.4096,
+      "buyTT": 32.4869,
+      "mid": 33.4483,
+      "source": "bom"
+    },
+    "CHF": {
+      "sellNotes": 56.7673,
+      "sellTT": 56.7709,
+      "buyTT": 55.1261,
+      "mid": 55.9485,
+      "source": "bom"
+    },
+    "CNY": {
+      "sellNotes": 7.77,
+      "sellTT": 7.605,
+      "buyTT": 7.0274,
+      "mid": 7.3162,
+      "source": "bom"
+    },
+    "CZK": {
+      "sellNotes": 2.15773,
+      "sellTT": 2.14851,
+      "buyTT": 2.04007,
+      "mid": 2.09429,
+      "source": "market",
+      "estimated": true
+    },
+    "DKK": {
+      "sellNotes": 7.06467,
+      "sellTT": 7.03451,
+      "buyTT": 6.67946,
+      "mid": 6.85699,
+      "source": "market",
+      "estimated": true
+    },
+    "EGP": {
+      "sellNotes": 0.888772,
+      "sellTT": 0.884978,
+      "buyTT": 0.84031,
+      "mid": 0.862644,
+      "source": "market",
+      "estimated": true
+    },
+    "EUR": {
+      "sellNotes": 52.2022,
+      "sellTT": 52.1201,
+      "buyTT": 50.6043,
+      "mid": 51.3622,
+      "source": "bom"
+    },
+    "GBP": {
+      "sellNotes": 62.4029,
+      "sellTT": 62.3029,
+      "buyTT": 60.4908,
+      "mid": 61.3969,
+      "source": "bom"
+    },
+    "HKD": {
+      "sellNotes": 6.1574,
+      "sellTT": 6.13111,
+      "buyTT": 5.82165,
+      "mid": 5.97638,
+      "source": "market",
+      "estimated": true
+    },
+    "HUF": {
+      "sellNotes": 0.142505,
+      "sellTT": 0.141896,
+      "buyTT": 0.134734,
+      "mid": 0.138315,
+      "source": "market",
+      "estimated": true
+    },
+    "IDR": {
+      "sellNotes": 0.00265383,
+      "sellTT": 0.0026425,
+      "buyTT": 0.00250913,
+      "mid": 0.00257582,
+      "source": "market",
+      "estimated": true
+    },
+    "ILS": {
+      "sellNotes": 14.5714,
+      "sellTT": 14.5092,
+      "buyTT": 13.7769,
+      "mid": 14.1431,
+      "source": "market",
+      "estimated": true
+    },
+    "INR": {
+      "sellNotes": 0.5527,
+      "sellTT": 0.5401,
+      "buyTT": 0.5064,
+      "mid": 0.52325,
+      "source": "bom"
+    },
+    "JPY": {
+      "sellNotes": 0.300826,
+      "sellTT": 0.300546,
+      "buyTT": 0.291822,
+      "mid": 0.296184,
+      "source": "bom"
+    },
+    "KES": {
+      "sellNotes": 0.371177,
+      "sellTT": 0.369592,
+      "buyTT": 0.350938,
+      "mid": 0.360265,
+      "source": "market",
+      "estimated": true
+    },
+    "KRW": {
+      "sellNotes": 0.0359414,
+      "sellTT": 0.035788,
+      "buyTT": 0.0339816,
+      "mid": 0.0348848,
+      "source": "market",
+      "estimated": true
+    },
+    "KWD": {
+      "sellNotes": 154.923,
+      "sellTT": 154.262,
+      "buyTT": 146.476,
+      "mid": 150.369,
+      "source": "market",
+      "estimated": true
+    },
+    "LKR": {
+      "sellNotes": 0.14528,
+      "sellTT": 0.14466,
+      "buyTT": 0.137358,
+      "mid": 0.141009,
+      "source": "market",
+      "estimated": true
+    },
+    "MAD": {
+      "sellNotes": 4.82333,
+      "sellTT": 4.80273,
+      "buyTT": 4.56032,
+      "mid": 4.68153,
+      "source": "market",
+      "estimated": true
+    },
+    "MGA": {
+      "sellNotes": 0.0104894,
+      "sellTT": 0.0104447,
+      "buyTT": 0.00991749,
+      "mid": 0.0101811,
+      "source": "market",
+      "estimated": true
+    },
+    "MVR": {
+      "sellNotes": 3.12474,
+      "sellTT": 3.11139,
+      "buyTT": 2.95435,
+      "mid": 3.03287,
+      "source": "market",
+      "estimated": true
+    },
+    "MXN": {
+      "sellNotes": 2.51707,
+      "sellTT": 2.50632,
+      "buyTT": 2.37982,
+      "mid": 2.44307,
+      "source": "market",
+      "estimated": true
+    },
+    "MYR": {
+      "sellNotes": 11.7124,
+      "sellTT": 11.6624,
+      "buyTT": 11.0738,
+      "mid": 11.3681,
+      "source": "market",
+      "estimated": true
+    },
+    "NOK": {
+      "sellNotes": 4.91001,
+      "sellTT": 4.88904,
+      "buyTT": 4.64228,
+      "mid": 4.76566,
+      "source": "market",
+      "estimated": true
+    },
+    "NPR": {
+      "sellNotes": 0.324532,
+      "sellTT": 0.323147,
+      "buyTT": 0.306836,
+      "mid": 0.314991,
+      "source": "market",
+      "estimated": true
+    },
+    "NZD": {
+      "sellNotes": 26.9465,
+      "sellTT": 26.7766,
+      "buyTT": 25.4372,
+      "mid": 26.1069,
+      "source": "bom"
+    },
+    "OMR": {
+      "sellNotes": 125.587,
+      "sellTT": 125.051,
+      "buyTT": 118.739,
+      "mid": 121.895,
+      "source": "market",
+      "estimated": true
+    },
+    "PHP": {
+      "sellNotes": 0.756288,
+      "sellTT": 0.75306,
+      "buyTT": 0.71505,
+      "mid": 0.734055,
+      "source": "market",
+      "estimated": true
+    },
+    "PKR": {
+      "sellNotes": 0.174609,
+      "sellTT": 0.173864,
+      "buyTT": 0.165088,
+      "mid": 0.169476,
+      "source": "market",
+      "estimated": true
+    },
+    "PLN": {
+      "sellNotes": 11.8487,
+      "sellTT": 11.7981,
+      "buyTT": 11.2027,
+      "mid": 11.5004,
+      "source": "market",
+      "estimated": true
+    },
+    "QAR": {
+      "sellNotes": 13.2659,
+      "sellTT": 13.2092,
+      "buyTT": 12.5425,
+      "mid": 12.8759,
+      "source": "market",
+      "estimated": true
+    },
+    "SAR": {
+      "sellNotes": 12.8767,
+      "sellTT": 12.8218,
+      "buyTT": 12.1746,
+      "mid": 12.4982,
+      "source": "market",
+      "estimated": true
+    },
+    "SCR": {
+      "sellNotes": 3.36098,
+      "sellTT": 3.34663,
+      "buyTT": 3.17772,
+      "mid": 3.26218,
+      "source": "market",
+      "estimated": true
+    },
+    "SEK": {
+      "sellNotes": 4.69942,
+      "sellTT": 4.67935,
+      "buyTT": 4.44317,
+      "mid": 4.56126,
+      "source": "market",
+      "estimated": true
+    },
+    "SGD": {
+      "sellNotes": 38.0958,
+      "sellTT": 38.011,
+      "buyTT": 36.0753,
+      "mid": 37.0431,
+      "source": "bom"
+    },
+    "THB": {
+      "sellNotes": 1.42031,
+      "sellTT": 1.41425,
+      "buyTT": 1.34287,
+      "mid": 1.37856,
+      "source": "market",
+      "estimated": true
+    },
+    "TRY": {
+      "sellNotes": 0.953898,
+      "sellTT": 0.949826,
+      "buyTT": 0.901885,
+      "mid": 0.925856,
+      "source": "market",
+      "estimated": true
+    },
+    "TWD": {
+      "sellNotes": 1.47034,
+      "sellTT": 1.46406,
+      "buyTT": 1.39017,
+      "mid": 1.42712,
+      "source": "market",
+      "estimated": true
+    },
+    "TZS": {
+      "sellNotes": 0.0181085,
+      "sellTT": 0.0180312,
+      "buyTT": 0.0171211,
+      "mid": 0.0175762,
+      "source": "market",
+      "estimated": true
+    },
+    "USD": {
+      "sellNotes": 48.0036,
+      "sellTT": 47.78,
+      "buyTT": 46.3827,
+      "mid": 47.0814,
+      "source": "bom"
+    },
+    "VND": {
+      "sellNotes": 0.00187157,
+      "sellTT": 0.00186358,
+      "buyTT": 0.00176952,
+      "mid": 0.00181655,
+      "source": "market",
+      "estimated": true
+    },
+    "ZAR": {
+      "sellNotes": 2.9009,
+      "sellTT": 2.894,
+      "buyTT": 2.7012,
+      "mid": 2.7976,
+      "source": "bom"
+    }
+  }
+}
